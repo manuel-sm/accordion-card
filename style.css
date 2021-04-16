@@ -72,9 +72,6 @@ h1 {
   transform: translateY(-85%);
 }
 
-.card__text {
-}
-
 .accordion__item {
   padding-top: 1rem;
   border-bottom: 1px solid var(--divider-blue);
